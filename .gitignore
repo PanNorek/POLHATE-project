@@ -4,7 +4,7 @@ api_keys.json
 .vscode/
 
 #output files
-data/
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
